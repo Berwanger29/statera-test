@@ -1,6 +1,9 @@
 # Projeto Statera
 
+- Vídeo de demonstração no youtube: https://youtu.be/fuHGXyIe_Zc
+---
 Este repositório contém o código para o projeto **Statera**, dividido em dois diretórios principais:
+
 
 - **statera-api**: O backend do projeto, construído com [NestJS](https://nestjs.com/).
 - **statera-frontend**: O frontend, construído com [Next.js](https://nextjs.org/).
